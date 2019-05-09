@@ -18,6 +18,8 @@
 *.ipr
 /out/
 
+/propertiesDemo/target/
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/

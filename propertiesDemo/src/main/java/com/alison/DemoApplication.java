@@ -11,12 +11,11 @@ import org.springframework.context.annotation.Configuration;
  * @Author Alison
  * @Date 2019/4/22
  **/
-@Configuration
-@EnableAutoConfiguration
-@ComponentScan
-//@SpringBootApplication
+//@Configuration
+//@EnableAutoConfiguration
+//@ComponentScan
+@SpringBootApplication
 public class DemoApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
